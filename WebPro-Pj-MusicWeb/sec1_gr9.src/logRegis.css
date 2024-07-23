@@ -1,0 +1,41 @@
+#box {
+    
+    width: 100%;
+    height: 600px;
+    margin-top: 7%;
+    margin-bottom: 5%;
+    }
+
+body {
+    background-color: #191919;
+}
+#header{
+    color:rgb(247, 3, 125);
+    text-align: center;
+}
+label {
+    
+    color:white;
+    font-size: xx-large ;
+}
+
+#innerbox {
+    margin: auto;
+    padding: 50px;
+    border-color: white;
+    border-style: solid;
+    border-radius: 25px;
+}
+#registerHeader{
+    padding: 50px;
+}
+#regis{
+    background-color: plum;
+    border-color: plum;
+    
+}
+
+
+
+
+
